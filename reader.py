@@ -23,7 +23,6 @@ def handle_file(infilename, handicap, black, white):
 	# ---------------------------------------------------------------
 
 	comment = ""
-	movenum = 0
 
 	for line in lines:
 
@@ -39,10 +38,6 @@ def handle_file(infilename, handicap, black, white):
 				node.set("C", comment.strip())
 				comment = ""
 
-			node = gf.Node(node)
-
-			movenum = int(line[0:-1])
-
 		elif line[0] in "ABCDEFGHJKLMNOPQRST" and line[1] == " ":
 
 			mv = line[0] + line.split(".")[0].split(" ")[1]
@@ -50,16 +45,7 @@ def handle_file(infilename, handicap, black, white):
 			x, y = gf.english_to_xy(mv)
 			s = gf.xy_to_s(x, y)
 
-			if not node.make_board().legal_move(s):
-				print("Illegal, move {}: {}".format(movenum, mv))
-				raise ValueError
-
-			# node = node.make_move(s)
-
-			if (movenum % 2 == 1 and handicap) or (movenum % 2 == 0 and not handicap):
-				node.set("W", s)
-			else:
-				node.set("B", s)
+			node = node.make_move(s)
 
 			c = line[line.index(".") + 1:].strip()
 
