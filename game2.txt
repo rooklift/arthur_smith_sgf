@@ -1,0 +1,402 @@
+1. 
+R 16. In the beginning of the game the corners and margins are first occupied, because it is there that positions can most easily be taken which cannot be killed, and which also contain territory. From the edges and corners the player makes toward the center. This process is repeated in every game. 
+2. 
+D 17.
+3. 
+Q 3. In taking a corner that is still vacant there is a choice among seven points; e.g., in the corner designated as D 4, these points are D 3, D 4, D 5, C 4, C 5, E 3, and [80]E 4. On the other hand, C 3 and E 5 are bad, because the territory which is obtained by C 3 is too small, and the adversary would reply to E 5 with D 4, by means of which E 5 would be cut off from the margin. Of moves that are good D 3–C 4 are the surest, and most frequently used. E 4–D 5 formerly were the favorite moves, but the preceding moves are now preferred to them. E 3–C 5 are seldom used. All of this, of course, applies to the corresponding points in the other three corners. 
+4. 
+P 17. The attack could also be commenced at P 16.[80]
+5. 
+C 4. 
+6. 
+Q 6. Corresponding to No. 4, this move should have been played at R 5 or Q 5, but White plays on Q 6, because if he played on Q 5, Black would have replied at R 10 or R 9, and later White P 5 and Black O 4 would have followed, with the result that White has nothing, while Black has obtained two positions, one on O–Q and the other on R.
+7. 
+O 4. Beginners would have replied to Q 6 with Q 5 or R 5. They attack their opponent at close quarters from the beginning, because they cannot take in the whole field at a glance. Their entire effort is to absorb the last stone that their opponent has played. When two beginners play together the battle [81]moves slowly from a corner out over the board, and one side of the board is entirely filled with stones, while the other is completely empty. This is a sure sign of bad play. In the beginning the good players spread their stones over the board as much as possible, and avoid close conflicts. 
+8. 
+D 15. The position D 15–D 17 is very strong, and players like to take it. This applies, of course, to the corresponding positions in other parts of the board, of which there are seven; i.e., C 16–E 16, Q 3–Q 5, etc. As soon as one player gets a position of the kind his opponent often takes a similar position on [81]the next move in order to balance the advantage gained by his adversary; this is something like castling in Chess.[81]
+9. 
+E 4. 
+10. 
+C 10. If White did not occupy this point, we might have the following continuation:
+B. C 10 
+W. C 7
+B. C 13 
+W. E 7
+
+and Black has the advantage, because White’s stones at C 7–E 7 can only get one “Me” on the edge of the board, and later on must seek a connection with some other group. By constantly harassing such endangered groups territory is often obtained.
+11. 
+R 13. In place of taking this secure position on line R, Black should have attacked the white stone on P 17 with L 17, and in this way Black would have obtained positions on both line 17 and on line R. 
+12. 
+C 5. White sees that Black plays too carefully, and therefore challenges him with a bold but premature attack that gives the whole game its character.
+13. 
+D 5. 
+14. 
+C 6.
+15. 
+B 4. 
+16. 
+D 6.
+17. 
+E 6. 
+18. 
+E 7.
+19. 
+F 6. 
+20. 
+H 3. As soon as Black answers this move, White will take territory on the right or left of H 3.[82]
+21. 
+G 2. Is played very carefully. K 3 would probably have been better. In that case White would either have played H 5 in order to save H 3, whereupon
+B. F 7 
+W. E 8
+B. K 5 
+
+
+would have followed, or White would have answered at K 4.
+
+22. 
+M 3. Two stones which mutually support each other on the margin of the board and form a position cannot be separated by more than two spaces; for instance, R 13–R 16. In that case the adversary cannot cut one off from the other. (Korschelt here inserts continuations similar to what we have shown in a preceding chapter.) Therefore, White’s twentieth and twenty-second moves are merely intended to fill territory that would otherwise fall to Black, and are not intended to form a new group.
+23. 
+H 2. The only correct answer would have been K 3, which would have separated White’s twentieth and twenty-second stones. 
+24. 
+M 5. White seeks to form a connection with No. 6, which Black frustrates by his twenty-fifth move. It is of the greatest importance to prevent the union of groups which the adversary has formed on the margin, in order that they may remain weak, and require continuous defense.
+
+The player who has the “Sente” most of the time will generally be the victor.
+25. 
+O 6. 
+26. 
+Q 9. Is very necessary in order not to surrender the entire right side to Black.
+27. 
+K 17. All good players agree that 27 should not have been played at K 17, but at L 17. This is difficult to understand because K 17 can be supported from both [83]sides at G 17 and N 17, but L 17 is better because Black should be occupied not merely with taking a position, but more particularly with killing White’s fourth stone. In the sequel K 17 is actually taken by White. 
+28. 
+H 17. This move has the effect of abandoning stone No. 4 at P 17. After Black’s twenty-ninth move at N 17, No. 4 could still escape by means of P 15, but giving [83]it up brings more territory elsewhere than is there lost. It is a favorite device of strong players to apparently abandon a position to their adversary after first preparing it so that eventually it may live, or so that it may afterward aid in surrounding one of the adversary’s groups. The abandoned position often reawakens to life if the weaker adversary allows his surrounding group to be itself surrounded and taken before the capture of the abandoned position has been completed.[83]
+29. 
+N 17. 
+30. 
+F 7.
+31. 
+G 7. 
+32. 
+K 3. It might have been better to have played at G 8. Then if Black replied at H 7, White could play at C 10, and the white territory in the neighborhood of line D would be very large. Certainly in that case H 3 would have been abandoned, but not M 3–M 5. Since 32 K 3 is purely defensive, Black gets the attack, and appreciably reduces the white territory in the neighborhood of line D.
+33. 
+D 8. 
+34. 
+D 7.
+35. 
+D 11. 
+36. 
+C 11.
+37. 
+D 12. 
+38. 
+C 12.
+39. 
+D 13. 
+40. 
+C 13.
+41. 
+G 9. 
+42. 
+G 6. If this move had not divided the black groups, Black would have become too powerful.[84]
+43. 
+H 7. 
+44. 
+E 9. This connects the two parts of the White position, which connection was threatened by Black’s thirty-third stone. Moreover, the “Sente” remains with White, because Black cannot allow his position to be broken into through F 10.
+45. 
+G 12. 
+46. 
+Q 14.
+47. 
+R 14. 
+48. 
+R 17.
+49. 
+S 17. 
+50. 
+Q 16.
+51. 
+R 15. 
+52. 
+R 11. The beginner will wonder that 52 Q 15 did not follow 51 R 15. This is because 53 R 10–54 R 9 would result, and White would be at a disadvantage. The moves 46–52 are part of a deeply thought-out plan on the part of White. Black could afford to ignore No. 4 as long as it stood alone. Thereupon White increases it by Nos. 48 and 50, and Black must accept the sacrifice, because otherwise Nos. 27–29 are threatened. By this sacrifice White gets the territory around No. 27, and also has an opportunity of increasing his position on line Q by his fifty-second move.
+53. 
+O 16. 
+54. 
+M 16. On the fifty-third move Black proceeds with the capture of Nos. 4, 48, and 50, while White on his fifty-fourth move hems in No. 27.
+55. 
+H 16. This move is ignored by White because Black must reply [85]to his fifty-sixth and fifty-eighth moves in order to save Nos. 29 and 53. 
+56. 
+M 17.[85]
+57. 
+N 18. 
+58. 
+M 18.
+59. 
+Q 15. 
+60. 
+J 17.
+61. 
+J 16. 
+62. 
+K 18.
+63. 
+E 16. 
+64. 
+D 16.
+65. 
+G 17. 
+66. 
+K 16.
+67. 
+P 16. This is necessary to avoid the following continuation:
+
+W. P 16, O 15, N 16, O 14
+B. P 15, N 15, O 17, P 18
+
+and White has the advantage.
+
+68. 
+K 15.
+69. 
+D 14. 
+70. 
+C 14.
+71. 
+R 5. 
+72. 
+R 6.
+73. 
+E 15. It is of the utmost importance to Black to occupy this point, for otherwise White would press far into his territory through this opening. He goes first, however, on his seventy-first move to R 5, because White must follow, and then to 73, because on this move he loses the “Sente.” Black could also have occupied S 5, to which White would have replied with S 6, because otherwise the following continuation would have occurred:
+
+B. S 5, S 6, S 8, R 8, Q 8
+W. E 15, S 7, T 7, R 7
+
+and the White position is broken up. It is because Black played at E 15 too hastily and without first occupying S 5 that White can break up the Black position by the series of moves Nos. 74–82.
+
+74. 
+Q 5. Murase Shuho thought that 74 was a bad move and that S 5 would have been better. The game would then have continued as follows:
+
+B. 73. E 15, R 4
+W. S 5, S 4
+
+He also thought that White’s moves from 76–82 were bad, because nothing in particular was accomplished by separating O 4 from O 6, since it was impossible to kill them.[86]
+75. 
+S 5. 
+76. 
+Q 4.
+77. 
+R 3. 
+78. 
+P 3.
+79. 
+P 2. 
+80. 
+O 3.
+81. 
+O 2. 
+82. 
+P 4.
+83. 
+N 8. 
+84. 
+L 8.
+85. 
+O 10. 
+86. 
+F 3.
+87. 
+G 3. 
+88. 
+F 4.
+89. 
+E 3. 
+90. 
+G 5.
+91. 
+E 5. Black has played on this point because otherwise E 6–F 6 will die; thus,
+
+W. E 5, B. F 5 takes
+W. E 5 retakes
+
+92. 
+J 6.
+93. 
+G 4. This is intended to secure H 2, G 2 and G 3. The simplest way of doing this would be to play at F 2, but G 4 gains six more “Me” because F 3–F 4 may be regarded as taken. 
+94. 
+H 14. From this point on, the territory in the center is filled up. Black and White seem to get it in about equal parts.
+95. 
+L 10. 
+96. 
+J 11.
+97. 
+H 11. 
+98. 
+F 14.
+99. 
+E 14. 
+100. 
+H 10.
+101. 
+G 10. 
+102. 
+H 12.
+103. 
+G 11. 
+104. 
+O 8.
+105. 
+Q 10. 
+106. 
+R 10.
+107. 
+P 8. 
+108. 
+P 9.
+109. 
+O 9. 
+110. 
+O 7.
+111. 
+P 10. 
+112. 
+R 8.
+113. 
+N 7. 
+114. 
+P 7.
+115. 
+L 9. 
+116. 
+K 8.
+117. 
+J 9. 
+118. 
+K 12.
+119. 
+J 10. 
+120. 
+N 6.
+121. 
+A 7. This move is worthy of study. 
+122. 
+B 7.
+123. 
+N 2. 
+124. 
+J 5.[87]
+125. 
+E 18. 
+126. 
+D 18.
+127. 
+G 18. 
+128. 
+G 13.
+129. 
+M 12. 
+130. 
+F 12.
+131. 
+F 11. 
+132. 
+E 10.
+133. 
+E 11. 
+134. 
+S 12.
+135. 
+S 13. 
+136. 
+N 14.
+137. 
+L 12. 
+138. 
+L 13.
+139. 
+M 13. 
+140. 
+L 14.
+141. 
+K 11. 
+142. 
+J 12.
+143. 
+A 6. 
+144. 
+A 8.
+145. 
+B 5. 
+146. 
+B 6.
+147. 
+A 5. 
+148. 
+B 8.
+149. 
+S 6. 
+150. 
+S 7.
+151. 
+M 8. 
+152. 
+M 6. Not at M 7, because that would lead to the loss of K 8–L 8.
+153. 
+D 19. 
+154. 
+C 19.
+155. 
+E 19. 
+156. 
+C 18.
+157. 
+N 3. 
+158. 
+N 4.
+159. 
+L 2. 
+160. 
+L 3.
+161. 
+K 2. 
+162. 
+F 5.
+163. 
+F 2. 
+164. 
+E 17.
+165. 
+F 17. 
+166. 
+H 19.
+167. 
+H 18. 
+168. 
+J 18.
+169. 
+G 19. 
+170. 
+P 14.
+171. 
+P 15. 
+172. 
+N 19.
+173. 
+O 19. 
+174. 
+M 19.
+175. 
+O 17. 
+176. 
+R 4.
+177. 
+S 4. 
+178. 
+T 6.
+179. 
+R 12. 
+180. 
+S 11.
+181. 
+O 13. 
+182. 
+O 14.
+183. 
+P 13.

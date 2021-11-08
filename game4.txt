@@ -1,0 +1,500 @@
+1. 
+R 4. 
+2. 
+C 16.
+3. 
+E 17. 
+4. 
+D 15.
+5. 
+C 11. To prevent Black forming territory on the left side. 
+6. 
+C 7. P 3 would have been better. (Iwasaki Kenzo.)
+7. 
+O 3. 
+8. 
+R 10. This move is called “Moku Shita.” It is one of Murase Shuho’s inventions.
+9. 
+R 14. White breaks into Black’s territory at once. 
+10. 
+R 6.
+11. 
+O 17. 
+12. 
+O 16. These moves will be found in the chapter on “Joseki.”
+13. 
+N 16. 
+14. 
+O 15.
+15. 
+P 17. 
+16. 
+Q 17.
+17. 
+Q 13. White must look out for the stone at R 14. 
+18. 
+R 15. This move secures the corner, and at the same time protects the connection of Black’s stones on lines O and Q. “Ikkyo ryo toku.”
+19. 
+O 13. 
+20. 
+N 14.[98]
+21. 
+L 17. Replies to Black’s last move. 
+22. 
+Q 14.
+23. 
+S 14. 
+24. 
+F 16.
+25. 
+G 17. 
+26. 
+S 15. Secures the corner.
+27. 
+P 10. 
+28. 
+Q 8. P 6 would have been better. (I. K.)
+29. 
+C 14. 
+30. 
+D 14.
+31. 
+C 13. 
+32. 
+D 12. Not the best move. M 3 would have been better. (I. K.)
+33. 
+D 11. 
+34. 
+E 12.
+35. 
+E 11. 
+36. 
+F 11.
+37. 
+F 12. White cuts off. This is an aggressive move. 
+38. 
+F 13. G 14 would have been better. (I. K.)
+39. 
+G 12. 
+40. 
+F 10.
+41. 
+G 13. 
+42. 
+F 14.
+43. 
+D 8. White provides an escape for stones on line 11. 
+44. 
+H 15. H 14 was better, as White dare not cut off at G 14. (I. K.)
+45. 
+H 10. 
+46. 
+F 8.
+47. 
+D 7. 
+48. 
+C 6.
+49. 
+D 6. 
+50. 
+D 5.
+51. 
+F 6. 
+52. 
+H 9. Black must provide an exit for his stones on line E.
+53. 
+J 10. White cannot risk jumping farther. 
+54. 
+H 8.
+55. 
+H 17. Not good. K 8 would have been better. (I. K.) 
+56. 
+K 8. Black promptly escapes.
+57. 
+C 8. Good, but not the best. M 12 would have helped the white stones near the center. 
+58. 
+L 10. Black commences an attack on White’s five stones.
+59. 
+J 14. White retreats. 
+60. 
+J 15.
+61. 
+L 14. 
+62. 
+L 15.
+63. 
+L 12. 
+64. 
+J 12. This is a “Sute ishi,” but it greatly aids Black’s attack.[100]
+65. 
+K 12. Not a good move. By reason of this Black’s sixty-eighth move is made possible. (I. K.) 
+66. 
+K 15.
+67. 
+J 13. Another move which arrests the development of the game. (I. K.) 
+68. 
+K 17. Attacks White’s stones at the top of the board.
+69. 
+K 18. 
+70. 
+L 18.
+71. 
+J 17. 
+72. 
+M 17.
+73. 
+K 16. Takes. 
+74. 
+L 16. Black’s attack on the upper right-hand corner is now well developed.
+75. 
+P 8. White abandons the field and plays elsewhere. 
+76. 
+P 7.
+77. 
+O 8. 
+78. 
+H 5.
+79. 
+F 4. 
+80. 
+H 3.
+81. 
+F 2. 
+82. 
+D 2.
+83. 
+F 7. White perfects his connection. 
+84. 
+M 3.
+85. 
+Q 9. 
+86. 
+R 9.
+87. 
+Q 7. 
+88. 
+R 8.
+89. 
+P 6. 
+90. 
+M 5. Black enlarges his territory at the bottom of the board.
+91. 
+O 7. Takes. 
+92. 
+S 5. Forming “Me” for the side group.
+93. 
+C 18. Stronger than C 17. 
+94. 
+K 17. Takes in “Ko.”
+95. 
+S 4. 
+96. 
+R 12.
+97. 
+P 14. 
+98. 
+Q 15.
+99. 
+R 13. 
+100. 
+T 4.
+101. 
+L 17. Takes in “Ko.” 
+102. 
+M 18.
+103. 
+K 3. Invading Black’s territory. White can connect on either side. 
+104. 
+L 4.
+105. 
+H 2. 
+106. 
+G 3.
+107. 
+J 3. 
+108. 
+J 4.[101]
+109. 
+G 2. 
+110. 
+M 7.
+111. 
+E 2. 
+112. 
+C 3. If Black plays at D 3, White could reply at D 1 with the “Sente.”
+113. 
+L 8. Threatening Black’s territory. If Black defends, White can connect somewhere. 
+114. 
+K 9.
+115. 
+J 6. 
+116. 
+H 6.
+117. 
+L 6. White’s attack on this territory is very fine. 
+118. 
+L 7.
+119. 
+K 4. 
+120. 
+K 5.
+121. 
+J 5. 
+122. 
+K 6.
+123. 
+H 4. Takes. 
+124. 
+S 3.
+125. 
+R 3. 
+126. 
+S 2.
+127. 
+J 7. 
+128. 
+M 9. Black cannot neglect this—the whole center of the board might be lost.
+129. 
+R 2. 
+130. 
+H 7.
+131. 
+T 15. 
+132. 
+S 17. Better than T 16, as it provides for “Me” in the corner.
+133. 
+S 12. 
+134. 
+S 11.
+135. 
+L 19. 
+136. 
+K 17. Takes in “Ko.”
+137. 
+N 9. 
+138. 
+N 8.
+139. 
+L 17. Takes in “Ko.” 
+140. 
+M 16.
+141. 
+N 7. 
+142. 
+M 8.
+143. 
+B 17. 
+144. 
+B 16.
+145. 
+B 8. 
+146. 
+M 12. Threatening to surround the ten white stones in the center.
+147. 
+E 9. 
+148. 
+F 9.
+149. 
+K 14. Forming “Me” for group in center. 
+150. 
+G 11.
+151. 
+H 11. 
+152. 
+H 14.
+153. 
+M 11. 
+154. 
+H 13.
+155. 
+H 12. 
+156. 
+M 13.[102]
+157. 
+L 11. 
+158. 
+S 1. This move is worth five or six points.
+159. 
+B 6. B 5 might have been more aggressive. 
+160. 
+B 5.
+161. 
+B 7. 
+162. 
+C 5.
+163. 
+N 5. 
+164. 
+N 6.
+165. 
+N 4. 
+166. 
+L 2.
+167. 
+N 2. 
+168. 
+M 2. Otherwise White would play at L 3.
+169. 
+G 5. 
+170. 
+A 13. This stone is connected with stone at B 16. This move often occurs.
+171. 
+B 12. 
+172. 
+D 17.
+173. 
+E 18. 
+174. 
+Q 12.
+175. 
+P 12. 
+176. 
+T 16.
+177. 
+E 16. 
+178. 
+E 15.
+179. 
+R 5. 
+180. 
+S 7.
+181. 
+R 1. 
+182. 
+Q 6.
+183. 
+Q 5. This part of the board is now completed. 
+184. 
+M 19.
+185. 
+A 5. 
+186. 
+A 4.
+187. 
+A 6. 
+188. 
+B 4.
+189. 
+M 4. 
+190. 
+L 3.
+191. 
+K 2. 
+192. 
+K 19. Takes.
+193. 
+J 19. 
+194. 
+K 17. Takes in “Ko.”
+195. 
+L 19. Takes in “Ko.” 
+196. 
+F 17.
+197. 
+F 18. 
+198. 
+D 18.
+199. 
+C 17. 
+200. 
+D 16.
+201. 
+D 19. “Watari.” 
+202. 
+E 10.
+203. 
+D 10. 
+204. 
+E 8.
+205. 
+M 10. 
+206. 
+Q 10.
+207. 
+K 10. 
+208. 
+L 9. Takes.
+209. 
+P 9. 
+210. 
+L 13.
+211. 
+K 13. 
+212. 
+N 12.
+213. 
+M 14. 
+214. 
+N 13.[103]
+215. 
+N 11. 
+216. 
+O 12.
+217. 
+O 11. 
+218. 
+O 14.
+219. 
+P 13. 
+220. 
+D 9. Takes.
+221. 
+C 9. 
+222. 
+Q 11.
+223. 
+P 11. 
+224. 
+J 16. Takes.
+225. 
+G 16. 
+226. 
+F 15.
+227. 
+N 3. 
+228. 
+M 6.
+229. 
+T 14. 
+230. 
+T 12.
+231. 
+T 13. 
+232. 
+S 13. Takes.
+233. 
+P 15. 
+234. 
+P 16.
+235. 
+S 12. Takes in “Ko.” 
+236. 
+T 11.
+237. 
+E 3. 
+238. 
+O 6.
+239. 
+O 5. 
+240. 
+A 17.
+241. 
+A 18. 
+242. 
+A 16.
+243. 
+A 12. 
+244. 
+B 14.
+245. 
+B 13. 
+246. 
+A 14.
+247. 
+D 3. 
+248. 
+C 2.
+249. 
+M 15. 
+250. 
+N 15.

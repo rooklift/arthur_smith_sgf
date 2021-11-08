@@ -1,0 +1,2 @@
+Game 1 - the Gutenberg text (but not image) gives move 91 as Q3. In fact it is Q13.
+Game 3 - the Gutenberg text gives move 305 as T19. In fact it is T7.

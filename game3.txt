@@ -1,0 +1,642 @@
+1. 
+C 4. (“Komoku.”) Black being the weaker player, adopts a conservative opening. 
+2. 
+Q 3.
+3. 
+D 17. 
+4. 
+C 15.
+5. 
+E 3. The opening is conventional so far. 
+6. 
+C 9. This is an unusual move.
+7. 
+F 16. 
+8. 
+C 17.
+9. 
+C 18. 
+10. 
+D 16.
+11. 
+E 17. 
+12. 
+Q 17.
+13. 
+R 15. 
+14. 
+R 6.
+15. 
+R 11. 
+16. 
+K 3.
+17. 
+N 17. 
+18. 
+D 12. Not the best move. P 16 would have been better. This part of the game is generally devoted to the general distribution of stones.
+19. 
+P 16. White’s stone at Q 17 is now shut in. If the black stone at N 17 were at M 17, White could have escaped. 
+20. 
+P 17.
+21. 
+O 17. 
+22. 
+S 16.
+23. 
+R 16. 
+24. 
+R 17.
+25. 
+S 15. 
+26. 
+S 17.[90]
+27. 
+P 18. 
+28. 
+Q 18.
+29. 
+O 19. Probably not the best. O 15 would have had greater possibilities. 
+30. 
+S 19. The corner is a typical Go problem. White had to place this stone very carefully in order to provide for the necessary two “Me.”
+31. 
+J 16. Not the best. O 15 would have been better. 
+32. 
+Q 16.
+33. 
+Q 15. 
+34. 
+P 15. Cutting Black’s connection. The necessity for a black stone at O 15 is now apparent.
+35. 
+O 16. 
+36. 
+P 14.
+37. 
+R 13. 
+38. 
+Q 12.
+39. 
+Q 11. 
+40. 
+P 12.
+41. 
+P 11. 
+42. 
+M 13.
+43. 
+R 8. Not the best move. N 11 would have been more aggressive. 
+44. 
+K 16. White now commences a series of moves to break up Black’s territory at the top of the board.
+45. 
+K 17. 
+46. 
+L 17.
+47. 
+L 16. 
+48. 
+K 15.
+49. 
+L 15. 
+50. 
+J 17.
+51. 
+K 18. 
+52. 
+H 17.
+53. 
+L 18. 
+54. 
+J 15.
+55. 
+H 16. 
+56. 
+G 16.
+57. 
+H 15. 
+58. 
+G 15.
+59. 
+H 14. 
+60. 
+G 17.
+61. 
+J 13. 
+62. 
+O 11.
+63. 
+O 10. 
+64. 
+N 11.
+65. 
+N 10. 
+66. 
+M 11.
+67. 
+K 12. An ineffective move; B 17 would have been better. 
+68. 
+B 17.
+69. 
+B 18. 
+70. 
+F 15.
+71. 
+F 18. Black must defend his corner, which is already much reduced in size. 
+72. 
+A 18.[91]
+73. 
+G 19. 
+74. 
+L 14.
+75. 
+K 14. The three white stones, J 15, K 15, and K 16 are dead. They were sacrificed in order to break up Black’s territory at the top of the board. 
+76. 
+M 15.
+77. 
+M 16. 
+78. 
+Q 8.
+79. 
+Q 7. 
+80. 
+R 7.
+81. 
+P 8. 
+82. 
+S 8.
+83. 
+Q 9. Takes. 
+84. 
+R 9.
+85. 
+O 13. An effort to deprive the white group of the necessary “Me” and to envelop them. 
+86. 
+O 14.
+87. 
+N 13. 
+88. 
+N 14.
+89. 
+L 10. 
+90. 
+L 11.
+91. 
+K 10. K 11 would not do; White could break through in that case. 
+92. 
+R 12.
+93. 
+S 12. 
+94. 
+Q 13.
+95. 
+S 10. 
+96. 
+R 14.
+97. 
+S 14. 
+98. 
+S 13. Takes.
+99. 
+T 13. “Watari.” 
+100. 
+L 12.
+101. 
+N 12. 
+102. 
+M 10.
+103. 
+M 9. 
+104. 
+K 11.
+105. 
+J 11. White is now shut in. 
+106. 
+O 12. White saves his group in this way because he can get the position called “Magari shimoku wa me” no matter what Black does.
+107. 
+R 4. 
+108. 
+Q 4.
+109. 
+R 3. 
+110. 
+R 2.
+111. 
+S 2. 
+112. 
+Q 2.
+113. 
+S 5. 
+114. 
+Q 6.
+115. 
+S 1. Black’s corner is small, but it will surely live. 
+116. 
+Q 8. Takes. “Ko.”[92]
+117. 
+P 7. 
+118. 
+P 9.
+119. 
+R 8. “Ko.” 
+120. 
+T 3. An effort to destroy the corner.
+121. 
+S 3. 
+122. 
+Q 8. “Ko.”
+123. 
+P 10. 
+124. 
+N 4. White eventually wins the game by means of the territory he now maps out.
+125. 
+E 16. 
+126. 
+E 15.
+127. 
+D 14. “Nozoku.” 
+128. 
+D 15.
+129. 
+C 7. 
+130. 
+J 10.
+131. 
+L 8. 
+132. 
+H 11.
+133. 
+J 12. 
+134. 
+J 9.
+135. 
+G 11. Not very good. Black should have played at K 8. 
+136. 
+N 8.
+137. 
+N 9. 
+138. 
+K 8.
+139. 
+L 9. Black must play here to protect his two stones. 
+140. 
+B 4.
+141. 
+B 3. 
+142. 
+D 4.
+143. 
+C 3. 
+144. 
+C 5.
+145. 
+C 6. An unusual way of playing the corner. 
+146. 
+N 6.
+147. 
+L 6. 
+148. 
+K 5.
+149. 
+K 6. 
+150. 
+J 5.
+151. 
+J 6. 
+152. 
+H 6.
+153. 
+H 7. 
+154. 
+G 10.
+155. 
+F 11. 
+156. 
+G 7.
+157. 
+G 6. 
+158. 
+H 5.
+159. 
+G 8. 
+160. 
+F 7.
+161. 
+F 8. 
+162. 
+H 8.
+163. 
+J 7. Note how the center fills up without either side getting territory there. 
+164. 
+F 10.
+165. 
+E 8. 
+166. 
+E 7.
+167. 
+E 11. 
+168. 
+E 10.[93]
+169. 
+D 11. 
+170. 
+D 8.
+171. 
+D 7. 
+172. 
+F 5.
+173. 
+E 5. 
+174. 
+F 6.
+175. 
+C 14. 
+176. 
+M 7.
+177. 
+R 8. “Ko.” A weak move. White’s position is already better, and Black should play at B 14, where he might have a chance to kill White’s group, in the upper left-hand corner. 
+178. 
+B 14. White’s group is now safe.
+179. 
+B 13. 
+180. 
+A 14.
+181. 
+C 12. 
+182. 
+B 16. This is an interesting problem. If White plays at B 15, Black could kill the group.
+183. 
+L 7. 
+184. 
+D 5.
+185. 
+C 8. 
+186. 
+D 9.
+187. 
+B 5. 
+188. 
+B 6.
+189. 
+A 4. Takes. 
+190. 
+D 6.
+191. 
+B 7. 
+192. 
+B 8.
+193. 
+A 6. Takes. 
+194. 
+F 2. Defending his large territory on the lower edge of the board.
+195. 
+E 4. 
+196. 
+Q 8. “Ko.” Attacking Black’s group which has still to form the necessary two “Me.”
+197. 
+J 8. 
+198. 
+H 9. White cannot afford to fill the “Ko” at R 8.
+199. 
+R 8. “Ko.” 
+200. 
+G 18.
+201. 
+H 19. 
+202. 
+Q 8. “Ko.” Returning to the attack.
+203. 
+O 9. Takes. 
+204. 
+E 6. A necessary connection.
+205. 
+G 4. Invading White’s territory. 
+206. 
+G 5. Takes. White must do this or lose ten stones.
+207. 
+E 2. 
+208. 
+G 3.[94]
+209. 
+P 6. 
+210. 
+P 5.
+211. 
+M 5. 
+212. 
+N 5.
+213. 
+M 4. 
+214. 
+M 3. This ends Black’s invasion.
+215. 
+F 4. 
+216. 
+Q 14.
+217. 
+R 13. “Ko.” 
+218. 
+B 19. “Sente.”
+219. 
+D 18. Black must connect. 
+220. 
+S 13. “Ko.”
+221. 
+R 5. 
+222. 
+Q 5.
+223. 
+R 13. “Ko.” Black must win this “Ko” or lose five stones. 
+224. 
+J 18.
+225. 
+J 19. 
+226. 
+S 13. “Ko.”
+227. 
+L 4. “Sente.” 
+228. 
+L 3.
+229. 
+R 13. “Ko.” Black’s group is now safe. 
+230. 
+H 12.
+231. 
+S 13. “Ko tsugu.” 
+232. 
+E 13.
+233. 
+B 10. 
+234. 
+B 9.
+235. 
+F 13. 
+236. 
+E 14.
+237. 
+G 14. 
+238. 
+H 3.
+239. 
+S 6. 
+240. 
+D 3.
+241. 
+D 2. 
+242. 
+C 10.
+243. 
+C 11. 
+244. 
+B 11.
+245. 
+R 8. “Ko.” 
+246. 
+M 6.
+247. 
+L 5. 
+248. 
+Q 8. “Ko.”
+249. 
+R 1. 
+250. 
+Q 1.
+251. 
+R 8. “Ko.” 
+252. 
+S 7.
+253. 
+S 9. 
+254. 
+Q 8. “Ko.”
+255. 
+E 12. 
+256. 
+D 13.
+257. 
+R 8. “Ko.” 
+258. 
+G 12. “Sente.”
+259. 
+F 12. 
+260. 
+Q 8. “Ko.”
+261. 
+F 3. 
+262. 
+G 2.
+263. 
+R 8. “Ko.” 
+264. 
+T 4.
+265. 
+T 2. Black must defend his group. 
+266. 
+Q 8. “Ko.”
+267. 
+T 16. 
+268. 
+T 17.
+269. 
+R 8. “Ko.” 
+270. 
+T 6.[95]
+271. 
+T 5. Black must stop the White advance. 
+272. 
+Q 8. “Ko.”
+273. 
+Q 19. 
+274. 
+R 19.
+275. 
+R 8. “Ko.” 
+276. 
+P 19. “Ko.”
+277. 
+O 18. 
+278. 
+Q 8. “Ko.”
+279. 
+S 18. If Black can also play at T 19, White’s corner is dead. 
+280. 
+T 18.
+281. 
+R 8. “Ko.” 
+282. 
+N 15.
+283. 
+L 13. Purposely starting another “Ko.” 
+284. 
+K 13. “Ko.”
+285. 
+B 12. 
+286. 
+L 13. “Ko tsugu.”
+287. 
+A 11. Takes. 
+288. 
+Q 8. “Ko.”
+289. 
+C 13. 
+290. 
+R 8. “Ko tsugu.”
+291. 
+K 9. Black must form another “Me” for this group at once. 
+292. 
+O 6.
+293. 
+J 4. 
+294. 
+H 4.
+295. 
+K 4. 
+296. 
+C 2.
+297. 
+B 2. 
+298. 
+E 1.
+299. 
+C 1. Takes. 
+300. 
+J 3.
+301. 
+T 9. The game is practically over at this point. 
+302. 
+N 16.
+303. 
+J 14. Taking three stones. 
+304. 
+O 8.
+305. 
+T 7. Takes. 
+306. 
+O 7.
+307. 
+P 9. Connecting. 
+308. 
+T 15. Takes.
+309. 
+T 8. 
+310. 
+C 19.
+311. 
+F 17. 
+312. 
+A 13.
+313. 
+A 12. 
+314. 
+A 17.
+315. 
+D 19. 
+316. 
+A 19.
+317. 
+R 10. 
+318. 
+A 9.
+319. 
+A 10. 
+320. 
+Q 19. “Ko tsugu.”
+321. 
+A 7.

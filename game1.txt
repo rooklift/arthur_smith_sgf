@@ -1,0 +1,538 @@
+1. 
+C 15. A rather unusual move called “Moku hadzushi.” As will be seen in the chapter on “Joseki,” it is the least conservative of the three usual openings. 
+2. 
+R 4. Called “Komoku,” the most usual and most conservative method of commencing the corner play.
+3. 
+P 3. 
+4. 
+Q 5. Intended to attack No. 3, and also it commences to make territory on the right side of the board.
+5. 
+D 17. This move secures this corner for White. 
+6. 
+O 4. Continues the attack on No. 3.
+7. 
+N 3. (“Ikken tobi”) M 3 would be too far. 
+8. 
+R 10. Black tries to make territory on the right side.[70]
+9. 
+F 3. (“Kogeima.”) This is the usual move. 
+10. 
+C 7. (“Ogeima.”) This is the usual reply. See the chapter on “Joseki.”
+11. 
+C 3. 
+12. 
+D 3. Cutting off No. 11.
+13. 
+C 4. (“Nobiru.”) Giving aid to No. 11. 
+14. 
+D 5.
+15. 
+C 5. 
+16. 
+C 6. (“Osaeru.”) Black could not do this before.
+17. 
+D 2. 
+18. 
+E 2.
+19. 
+C 2. (“Tsugu.”) This move is necessary. 
+20. 
+E 3. (“Tsugu.”) White now has the corner, but Black has possibilities of expansion.
+21. 
+F 4. Supporting No. 9. “Ikken tobi” would be dangerous. 
+22. 
+E 6. Connecting and at the same time attacking White.
+23. 
+G 6. 
+24. 
+C 11. Making territory on the left side of the board.
+25. 
+K 17. Aiming to make territory at the top of the board. 
+26. 
+L 3. Precipitate.
+
+Comment by Honinbo Shuye:
+
+“Black’s twenty-sixth move is premature, and it has the effect of precipitating the contest too early in the game. The territory around that point is dangerous ground for Black. N 17 would have been better.”
+27. 
+N 4. This is necessary to lead out the stone at N 3. “Ikken tobi” would be dangerous. 
+28. 
+L 5. Leading out toward the center. (“Ikken taka tobi.”)
+
+Comment by Honinbo Shuye:
+
+“Black should have played at H 4. White would then play at F 2, and Black would reply at E 1.”
+29. 
+O 5. 
+30. 
+H 3. Taking territory.
+
+Comment by Honinbo Shuye:
+
+“Black should still play at H 4.”[71]
+31. 
+F 2. Preventing the connection of the two Black groups. 
+32. 
+F 1. (“Haneru.”)
+33. 
+G 1. 
+34. 
+E 1. (“Tsugu.”) This series of moves is necessary and often occurs in the game.
+35. 
+H 2. Protecting the connection at G 2. 
+36. 
+J 3. Black must connect, otherwise the stone at H 3 is lost.
+37. 
+F 6. 
+38. 
+F 8. Aiming to make territory.
+
+Comment by Honinbo Shuye:
+
+“This move does not hit the spot. It should have been played at L 7.”
+39. 
+G 8. This move prevents White from being shut in. 
+40. 
+G 9.
+41. 
+H 8. (“Nobiru.”) 
+42. 
+F 7. Black completes his frontier.
+43. 
+G 7. Necessary to connect. 
+44. 
+F 10. This secures the connection at F 9, and at the same time extends.
+45. 
+K 4. White threatens to break through in two places. 
+46. 
+L 4.
+47. 
+H 9. 
+48. 
+L 7. Leading out the stones on line L, which are now threatened.
+49. 
+G 11. This connects White’s groups and prevents Black from extending. 
+50. 
+Q 3.
+51. 
+P 4. 
+52. 
+Q 7. Making territory on the right and at the same time attacking White’s five stones.
+53. 
+M 6. This move gives White the “Sente.” 
+54. 
+L 6. Black must connect.
+55. 
+P 7. Leading out the small White group. 
+56. 
+N 8. A dangerous move.
+
+Comment by Honinbo Shuye:
+
+“This move may be called a little dangerous. P 6 would have been preferable, and if White responds at O 8 or O 7, Black could reply at L 9.”[72]
+57. 
+P 8. 
+58. 
+P 6.
+59. 
+O 6. 
+60. 
+O 7. (“Kiru.”) Cutting off connection of the white groups.
+61. 
+M 2. Since White is cut off at O 7, he must form “Me” in this group. 
+62. 
+K 9. Black sees that White can form the necessary two “Me,” and therefore does not press the attack.
+63. 
+Q 8. 
+64. 
+R 7. Black must extend in this way.
+65. 
+R 8. 
+66. 
+S 8. (“Osaeru.”)
+67. 
+S 9. 
+68. 
+S 7. (“Tsugu.”) The usual series of moves.
+69. 
+P 5. (“Atari.”) 
+70. 
+Q 6.
+71. 
+Q 10. 
+72. 
+Q 11.
+73. 
+R 9. 
+74. 
+P 10. (“Sente.”)
+75. 
+O 10. White must sacrifice No. 71 in order to escape. 
+76. 
+S 10.
+77. 
+N 9. 
+78. 
+M 8.
+79. 
+P 9. 
+80. 
+Q 9. Takes. This is “Ko.”
+81. 
+T 10. (“Haneru.”) 
+82. 
+T 11. (“Osaeru.”)
+83. 
+Q 10. Taking in “Ko.” 
+84. 
+P 11. (“Tsugu.”) Black must play here to save the frontier.
+85. 
+T 9. Saving the stone at T 10. 
+86. 
+R 11. Black cannot neglect to play here.
+87. 
+O 11. 
+88. 
+L 11.
+89. 
+L 10. 
+90. 
+K 10.
+91. 
+Q 13. White must break up Black’s territory in the upper right-hand corner. 
+92. 
+P 12.
+93. 
+M 11. White retreats. 
+94. 
+M 10.[73]
+95. 
+L 12. 
+96. 
+L 9. Takes. White has escaped by means of sacrificing one stone.
+97. 
+P 13. 
+98. 
+O 12.
+99. 
+N 12. 
+100. 
+O 13.
+101. 
+S 12. (“Nozoku.”) 
+102. 
+K 12.
+103. 
+O 14. 
+104. 
+N 13. (“Shicho.”)
+105. 
+L 13. 
+106. 
+P 14. Cuts White off.
+107. 
+P 15. 
+108. 
+Q 14.
+109. 
+Q 15. 
+110. 
+R 14.
+111. 
+R 15. 
+112. 
+S 14. All these last moves are obviously necessary.
+113. 
+O 15. Connecting. 
+114. 
+S 15.
+115. 
+R 16. 
+116. 
+M 14.
+
+Comment by Honinbo Shuye:
+
+“This move is a mistake; it should have been played at M 15.”
+117. 
+K 14. White’s stones in the upper left-hand corner are now connected. 
+118. 
+M 16.
+119. 
+G 10. A defensive move. White attempts to get all his stones in one group. 
+120. 
+F 9. (“Tsugu.”)
+121. 
+J 12. Protects the connection at H 10. 
+122. 
+J 11.
+123. 
+J 13. 
+124. 
+N 10. Protecting the “Me” at L 10. K 11 is “Kageme.”
+125. 
+N 11. 
+126. 
+O 17.
+127. 
+L 15. 
+128. 
+M 15. White’s situation in the upper right-hand corner looks very bad at this point.
+129. 
+Q 17. 
+130. 
+R 18. A better move than Q 16.
+131. 
+N 17. 
+132. 
+N 18.
+133. 
+Q 18. 
+134. 
+S 17.
+135. 
+M 17. 
+136. 
+N 16. White is prevented from connecting.[74]
+137. 
+M 18. 
+138. 
+M 13. Threatening White’s other connection.
+139. 
+M 12. White must connect. 
+140. 
+P 18. To an inexpert eye White’s group in the upper right-hand corner now looks hopeless.
+141. 
+Q 19. This is to prevent “Watari.” 
+142. 
+O 16. Black must play here to protect his four stones.
+143. 
+S 16. 
+144. 
+T 16. (“Watari.”)
+145. 
+T 15. A sacrifice to prevent Black from forming “Me.” 
+146. 
+T 14. Black must take the stone.
+147. 
+R 13. The condition in this corner of the board is now a fine example of “Semeai.” 
+148. 
+S 13.
+149. 
+S 18. 
+150. 
+T 18.
+151. 
+S 19. The situation is now highly interesting. 
+152. 
+R 12. White’s sacrifice at T 15 is now bearing fruit.
+153. 
+R 17. 
+154. 
+T 17. Neither side can play at T 19 without loss.
+155. 
+P 16. Takes. Forming a perfect “Me,” the other being at R 18. The play in this corner is now complete. 
+156. 
+C 13. Increasing Black’s territory.
+157. 
+B 5. Protecting the corner. 
+158. 
+G 13.
+159. 
+H 11. 
+160. 
+L 16.
+161. 
+K 16. 
+162. 
+F 15. Extending Black’s frontiers.
+163. 
+F 17. 
+164. 
+J 15.
+
+Comment by Honinbo Shuye:
+
+“Black’s moves 164 and 166 are both useless. At move 164 Black should have played at D 15.”
+165. 
+H 16. 
+166. 
+G 16.
+167. 
+H 15. 
+168. 
+D 15.
+169. 
+D 16. 
+170. 
+D 14.
+171. 
+G 15. 
+172. 
+B 15.[75]
+173. 
+B 16. 
+174. 
+C 14. Completing the frontier.
+175. 
+P 2. 
+176. 
+Q 2.
+177. 
+Q 1. 
+178. 
+R 1.
+179. 
+P 1. 
+180. 
+R 2. The usual series of moves in such a situation.
+181. 
+C 16. We might say that the end game commences at about this point. 
+182. 
+J 2.
+183. 
+L 2. 
+184. 
+K 3.
+185. 
+A 7. 
+186. 
+F 16.
+187. 
+G 17. 
+188. 
+F 13. The stone at G 13 needs support.
+189. 
+H 13. A very good move to protect White’s group. 
+190. 
+A 8. Stopping White’s invasion.
+191. 
+B 6. 
+192. 
+B 7.
+193. 
+A 6. 
+194. 
+B 8. The usual moves.
+195. 
+B 14. 
+196. 
+B 13.
+197. 
+A 15. Takes. 
+198. 
+L 17.
+199. 
+L 18. Completing the frontier. 
+200. 
+M 19.
+201. 
+K 18. 
+202. 
+J 6. All the rest of the board is practically finished.
+203. 
+F 11. 
+204. 
+E 11.
+205. 
+E 16. 
+206. 
+E 15.
+207. 
+H 14. 
+208. 
+G 14.
+209. 
+E 5. 
+210. 
+E 12.
+211. 
+H 5. 
+212. 
+J 5.
+213. 
+H 4. 
+214. 
+J 4.
+215. 
+G 3. 
+216. 
+J 9.
+
+Comment by Honinbo Shuye:
+
+“This move is unprofitable. Had Black played at J 8, a very good profit would have been secured.”
+217. 
+J 8. 
+218. 
+E 4.[76]
+219. 
+F 5. 
+220. 
+D 1.
+221. 
+C 1. 
+222. 
+D 6. Black must connect.
+223. 
+O 9. 
+224. 
+M 9.
+225. 
+K 13. 
+226. 
+K 11.
+227. 
+J 7. 
+228. 
+H 6.
+229. 
+H 10. 
+230. 
+G 12.
+231. 
+H 12. 
+232. 
+K 7.
+233. 
+N 7. 
+234. 
+O 8.
+235. 
+S 5. By sacrificing one stone White forces Black to fill two spaces. 
+236. 
+Q 4.
+237. 
+T 8. 
+238. 
+T 7.
+239. 
+J 1. 
+240. 
+K 2.
+241. 
+K 1. 
+242. 
+A 13.
+243. 
+L 19. 
+244. 
+N 19.
+245. 
+P 19. 
+246. 
+O 18.
+247. 
+A 14. 
+248. 
+L 14.
+249. 
+K 15. 
+250. 
+M 5.
+251. 
+N 5. 
+252. 
+K 8.
+253. 
+Q 9. (“Ko tsugu.”)
