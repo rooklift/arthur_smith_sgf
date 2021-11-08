@@ -1,0 +1,514 @@
+1. 
+R 16. 
+2. 
+D 17.
+3. 
+Q 3. 
+4. 
+P 17.
+5. 
+C 4. 
+6. 
+C 14. Just as good as D 15, which we already know.
+7. 
+Q 5. This may be the best play under the circumstances. The secure position Q 3–Q 5 supports the advance posts at C 4 and R 16 in equal measure. 
+8. 
+Q 14.
+9. 
+P 16. 
+10. 
+Q 16.
+11. 
+Q 15. 
+12. 
+Q 17.
+13. 
+P 15. 
+14. 
+R 15.
+15. 
+R 14. 
+16. 
+S 15.
+17. 
+Q 13. 
+18. 
+N 17. The eighth stone played at Q 14 cannot be saved.
+
+If White had had an opportunity of placing a stone on the line of retreat at say E 3, then White could have saved No. 8. (This has already been explained in defining the Japanese expression “Shicho.”)[112]
+19. 
+P 14. Takes. S 14 probably would have been better, because it would have retained the “Sente” for Black; that is to say, a play which the opponent is compelled to answer, or otherwise sustain too great a loss. Had Black played at S 14, White must have answered at S 16, in order not to lose the stones at R 15–S 15, and also the corner, which is worth about fourteen “Me.” To White’s play at S 16 Black would probably have answered at R 12 and thus obtained a secure position. 
+20. 
+S 16.
+21. 
+R 9. 
+22. 
+E 3.
+23. 
+J 3. 
+24. 
+D 5. This is analogous to No. 8, but it is not advanced so far because Black has already occupied J 3.
+25. 
+C 5. 
+26. 
+D 6.
+27. 
+C 6. 
+28. 
+D 7.
+29. 
+C 7. 
+30. 
+D 8.[114]
+31. 
+C 9. 
+32. 
+L 3. White has established the long line on D and allowed Black a large territory in order to be able to occupy L 3. If he had played there immediately in answer to Black’s twenty-third move, then either L 3 or E 3 would have been in great danger.
+33. 
+D 3. 
+34. 
+D 2.
+35. 
+C 2. 
+36. 
+D 4.
+37. 
+C 3. 
+38. 
+L 5.
+39. 
+F 3. 
+40. 
+F 2.
+41. 
+E 4. Black compels White to take 41, in order to make good his escape. 
+42. 
+E 2.
+43. 
+G 3. 
+44. 
+F 4.
+45. 
+G 4. 
+46. 
+F 5.
+47. 
+G 5. 
+48. 
+K 2.
+49. 
+F 6. “Sente.” 
+50. 
+E 5. Takes.
+51. 
+J 2. 
+52. 
+H 7.
+53. 
+H 6. 
+54. 
+G 7.
+55. 
+J 7. 
+56. 
+P 3.
+57. 
+P 4. 
+58. 
+O 3.
+59. 
+Q 2. 
+60. 
+O 4.
+61. 
+O 5. 
+62. 
+N 5.
+63. 
+O 6. 
+64. 
+K 7. An interesting attack that determines the course of the game for a long time. 65, J 8, would mean abandoning the position on G–J (26 “Me”), but it would give an opportunity for a bold attack. If Black played 65, J 6, his stones would scarcely survive.
+65. 
+K 3. “Sente.” White must [115]reply to it, or he would find himself without the necessary “Me” in that group. 
+66. 
+L 2.[115]
+67. 
+K 6. 
+68. 
+J 8.
+69. 
+L 6. 
+70. 
+J 6. Takes.
+71. 
+K 5. Avoids “Ko” and nevertheless assures a connection. 
+72. 
+N 6.
+73. 
+L 7. 
+74. 
+K 4. Is played for the same reason as No. 66.
+75. 
+J 5. 
+76. 
+N 7.
+77. 
+K 8. 
+78. 
+J 7.
+79. 
+O 7. 
+80. 
+N 8.
+81. 
+L 9. 
+82. 
+J 10.
+83. 
+O 8. 
+84. 
+N 10.
+85. 
+K 11. 
+86. 
+R 10. Now the effect of the mistake at move 19 begins to be apparent.
+87. 
+Q 10. 
+88. 
+Q 11.
+89. 
+R 11. 
+90. 
+R 12.
+91. 
+S 10. Takes. 
+92. 
+S 11.
+93. 
+R 10. Q 12 would probably have been better; at all events it would have been surer, because it assures the connection by way of P 11 after White has taken. If White does not take, but plays at P 11, his stones on the edge of the board will die. 
+94. 
+M 11. This move separates P 14 from K 11, and is at the same time “Sente” as regards the black stones near K, because if Black does not answer, these stones would be cut off by W–K 10. Moves Nos. 98, 100, and 102 isolate the black stones in the neighborhood of P 14.
+95. 
+L 11. 
+96. 
+Q 12.
+97. 
+L 14. 
+98. 
+L 13.
+99. 
+K 13. 
+100. 
+M 13.
+101. 
+K 14. 
+102. 
+M 14.
+103. 
+S 14. 
+104. 
+S 13.
+105. 
+T 15. 
+106. 
+N 15.
+107. 
+O 11. It is certain that [116]either the eight black stones or the five white stones must die, and on this depends the result of the game, because it would make a difference of about 40 “Me.” 
+108. 
+O 12.[116]
+109. 
+P 12. 
+110. 
+P 11.
+111. 
+O 13. 
+112. 
+N 12.
+113. 
+O 10. 
+114. 
+P 13. Takes, “Ko.”
+115. 
+M 16. 
+116. 
+T 16.
+117. 
+T 14. 
+118. 
+O 16.
+119. 
+P 12. “Ko.” 
+120. 
+J 12.
+121. 
+K 12. 
+122. 
+P 13. “Ko.”
+123. 
+R 17. 
+124. 
+S 17.
+125. 
+P 12. “Ko.” 
+126. 
+R 13.
+127. 
+P 10. 
+128. 
+P 13. “Ko.”
+129. 
+D 16. 
+130. 
+C 16.
+131. 
+P 12. “Ko.” 
+132. 
+T 13.
+133. 
+Q 14. Connecting. 
+134. 
+P 13. “Ko.”
+135. 
+S 18. 
+136. 
+R 18. Takes.
+137. 
+P 12. “Ko.” 
+138. 
+K 9.
+139. 
+L 8. 
+140. 
+P 13. “Ko.”
+141. 
+E 17. 
+142. 
+P 12. Connecting. White would have had another “Ko” at M 10.
+143. 
+C 17. 
+144. 
+D 18.
+145. 
+C 15. 
+146. 
+B 16.
+147. 
+E 18. 
+148. 
+C 18.
+149. 
+B 15. 
+150. 
+D 15.
+151. 
+E 16. 
+152. 
+B 17. Takes. The series of moves from 143 to 152 should be carefully noted, as they frequently occur.
+153. 
+B 14. 
+154. 
+C 13.
+155. 
+B 13. 
+156. 
+C 12.
+157. 
+B 12. 
+158. 
+C 11.[117]
+159. 
+F 14. “Sente.” 
+160. 
+D 14.
+161. 
+B 11. 
+162. 
+C 10.
+163. 
+B 9. Is not played at B 10 in order to retain the “Sente” without conceding too great an advantage. 
+164. 
+D 9. It would have been better to play at K 17.
+165. 
+K 17. 
+166. 
+H 14.
+167. 
+G 13. 
+168. 
+H 13.
+169. 
+G 11. 
+170. 
+G 14.
+171. 
+F 15. 
+172. 
+J 11.
+173. 
+E 11. 
+174. 
+F 12.
+175. 
+G 12. 
+176. 
+E 12.
+177. 
+F 11. 
+178. 
+E 10.
+179. 
+D 11. 
+180. 
+D 10.
+181. 
+D 12. 
+182. 
+H 16.
+183. 
+H 17. 
+184. 
+G 17.
+185. 
+J 17. 
+186. 
+E 13.
+187. 
+F 13. 
+188. 
+G 16.
+189. 
+G 18. 
+190. 
+G 6.
+191. 
+M 17. 
+192. 
+P 2.
+193. 
+P 1. 
+194. 
+O 1.
+195. 
+Q 1. 
+196. 
+L 4.
+197. 
+N 18. 
+198. 
+G 2. “Sente.” It threatens the three black stones on J and K.
+199. 
+H 5. 
+200. 
+O 18.
+201. 
+M 18. 
+202. 
+B 10.
+203. 
+A 10. 
+204. 
+C 1.
+205. 
+B 1. 
+206. 
+D 1.
+207. 
+B 2. 
+208. 
+F 10. C 8 ought to have been occupied first.
+209. 
+G 10. 
+210. 
+G 9.
+211. 
+T 11. 
+212. 
+T 12.
+213. 
+S 12. Takes. 
+214. 
+C 8.
+215. 
+B 8. 
+216. 
+S 11. “Ko.”[118]
+217. 
+T 10. 
+218. 
+E 19.
+219. 
+F 19. 
+220. 
+F 17.
+221. 
+F 18. 
+222. 
+M 15.
+223. 
+L 15. 
+224. 
+J 15.
+225. 
+N 16. 
+226. 
+O 17.
+227. 
+H 10. 
+228. 
+H 9.
+229. 
+K 10. 
+230. 
+J 9.
+231. 
+M 6. 
+232. 
+O 9.
+233. 
+P 9. 
+234. 
+N 9.
+235. 
+M 5. 
+236. 
+M 4.
+237. 
+O 19. 
+238. 
+P 19.
+239. 
+N 19. 
+240. 
+A 15.
+241. 
+A 14. 
+242. 
+A 16.
+243. 
+H 2. 
+244. 
+J 4.
+245. 
+L 12. 
+246. 
+M 12.
+247. 
+G 1. 
+248. 
+F 1.
+249. 
+H 1. 
+250. 
+K 16.
+251. 
+L 16. 
+252. 
+K 1.
+253. 
+S 12. “Ko.” 
+254. 
+C 19.
+255. 
+S 11. Connecting. 
+256. 
+D 19.

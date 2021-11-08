@@ -466,3 +466,33 @@ C 1. Black wastes one of his few vacant spaces.
 R 3. 
 234. 
 N 19.
+
+White permits Black to play again. 
+235. 
+L 17.
+
+White permits Black to play again. 
+236. 
+J 19.
+237. 
+L 19. 
+238. 
+M 18.
+
+White permits Black to play again. 
+239. 
+P 19.
+
+White permits Black to play again. 
+240. 
+N 17.
+
+White permits Black to play again. 
+241. 
+R 19.
+242. 
+S 19. 
+243. 
+O 19.
+244. 
+R 17.
