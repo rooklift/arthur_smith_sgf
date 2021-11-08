@@ -28,17 +28,17 @@ def handle_file(infilename, handicap, black, white):
 
 		line = line.strip()
 
-		if len(line) < 2:
+		if len(line) < 2:															# Blank line, maybe part of a comment.
 
 			comment += "\n"
 
-		elif len(line) <= 4 and line[0].isnumeric() and line[-1] == ".":
+		elif len(line) <= 4 and line[0].isnumeric() and line[-1] == ".":			# Move number; since next move is expected, save any comment before it comes.
 
 			if comment.strip():
 				node.set("C", comment.strip())
 				comment = ""
 
-		elif line[0] in "ABCDEFGHJKLMNOPQRST" and line[1] == " ":
+		elif line[0] in "ABCDEFGHJKLMNOPQRST" and line[1] == " ":					# Move, possibly with start of comment on the same line.
 
 			mv = line[0] + line.split(".")[0].split(" ")[1]
 
@@ -52,7 +52,11 @@ def handle_file(infilename, handicap, black, white):
 			if c:
 				comment += c + "\n"
 
-		else:
+		elif line == "White permits Black to play again.":							# Pass.
+
+			node = node.make_pass()
+
+		else:																		# Something else, hopefully part of a comment.
 
 			comment += line + "\n"
 
@@ -68,3 +72,4 @@ handle_file("game2.txt", 0, "Uchigaki Sutekichi", "Murase Shuho")
 handle_file("game3.txt", 0, "Ito Kotaro", "Karigane Junichi")
 handle_file("game4.txt", 2, "Nagano Keijiro", "Hirose Heijiro")
 handle_file("game5.txt", 5, "Unknown", "Unknown")
+handle_file("game6.txt", 0, "Yasui Shintetsu", "Inouye Inseki")
